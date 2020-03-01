@@ -21,3 +21,5 @@ def get_number(number):
         return 0
 
 get_number(30)
+
+print("Hi there")
