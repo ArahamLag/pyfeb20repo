@@ -1,4 +1,5 @@
 import math
+
 def get_number(number):
     if isinstance(number, int):
         print(" a number was passed to the function")
@@ -19,7 +20,3 @@ def get_number(number):
         please pass a number and try again')
         
         return 0
-
-get_number(30)
-
-print("Hi there")
